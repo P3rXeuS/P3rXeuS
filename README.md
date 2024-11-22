@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii<br><br>I'm Front End Developer React
+Hii, I'm Van Ega Ivannoya,<br><br>I am a React Front-End Developer and currently a student at Palangka Raya University, with a strong background in multimedia, including video editing and photography.
 
 
 ## 🌐 Socials:
